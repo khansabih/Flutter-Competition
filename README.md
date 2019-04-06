@@ -3,3 +3,4 @@ It's an app where you can freely post whatever compelled you today and or right 
 
  ![alt text](https://github.com/khansabih/Flutter-Competition/blob/master/Screen%20Shot%202019-04-07%20at%2012.35.35%20AM.png)
  ![alt_text](https://github.com/khansabih/Flutter-Competition/blob/master/Screen%20Shot%202019-04-07%20at%2012.36.05%20AM.png)
+ ![alt_text](https://github.com/khansabih/Flutter-Competition/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202019-04-07%20at%2000.34.30.png)
